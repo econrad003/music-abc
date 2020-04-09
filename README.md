@@ -31,3 +31,6 @@ K:G
 The first header (X:) is the index number 1.  The remaining headers are data about the song, including title, time signature (4/4) and key (G).  The last two are the music.  The quoted string are the guitar chords "G", "C" and "D" - fancier chords like "D7" and "Dm", and "Dsus2" are also available. The rest of the music are notes. (CDEFGAB cover middle C to B above middle C, and cdefgab cover the next octave. Since the key is G, F and f represent F-sharp.  For other octaves and accidentals, consult the ABC standard.)
 
 ABC 2.1 standard: http://abcnotation.com/wiki/abc:standard:v2.1
+
+Updates:
+  8 Apr 2020 - added transcriptions from the Malchair musical manuscript.  (Music representing about 30-4 pages of the 134-page MS, plus notes are contained in the transcriptions.)
