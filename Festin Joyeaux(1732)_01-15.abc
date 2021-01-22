@@ -39,7 +39,7 @@ B:Festin joyeux ou la cuisine en musique, en vers libres.  Paris, 1738.
 % notes may indicate difficulties in the manuscript, and places where I the transcriber have
 % taken liberties in interpreting the MS.
 
-seemX:1
+X:1
 T:Madame la Dauphine. [FJ1]
 S:Festin joyeux.  Music page 1.
 Z:transcribed by Eric Conrad, 2021.
@@ -55,7 +55,7 @@ e>fgg | "^+"e2ee | "^+"dcde | "^+"e3 :|
 |: e | "^+"e>def | "^+"e2ee | "^+"efge | d2d2 |
 efgg | ccd2 | ef"^+"d>c | c3 :|
 
-seemX:2
+X:2
 T:Des sauts de Bordeaux [FJ2]
 % The title translates literally as "some jumps of Bordeaux".
 S:Festin joyeux.  Music page 2.
@@ -71,7 +71,7 @@ K:C
 |: Bc | dddc/B/ | "^+"AGGA | Gccd | e2ef |
 gf/e/ ed/c/ | dGGA | [M:3/2] Gcc2"^+"d2 | [M:2/2] c2 :|
 
-seemX:3
+X:3
 T:Que C\'esar pousse Pomp\'ee. [FJ3]
 % roughly: "That Caesar would push/shove/prod/encourage Pompey"
 % the first choice is probably the best of these.
@@ -93,7 +93,7 @@ w:On en fait \`a l'Es-pa-gnol-le, Aus-si la pro-fi-te-rol-le, A-vec
 B>c"^+"c>d | d3G/^F/ | G>AA>G | G3 :|
 w:cr\^ete et ris de veaux, Qui font po-tag-es nou-veaux.
 
-seemX:4
+X:4
 T:Sommes-nous pas trop heureux. [FJ4]
 % literally: "Are we not too happy" - colloquial
 S:Festin joyeux.  Music page 3.
@@ -112,7 +112,7 @@ A_B"^+"G>F | GE2A/E/ | FG"^+"G>A | A3 :| \
 |: A/B/ | cAd>e | ff2c/c/ |
 d/c/_B/A/ A"^+"G/>F/ | F3c/_B/ | "_NB1"Ad"^+"^c>d | ee2f/B/ | ^cd2d/c/ | d3 :|
 
-seemX:5
+X:5
 T:De la fronde. [FJ5]
 % literally "On the sling" [i.e. the weapon] or "On the rebellion"
 S:Festin joyeux.  Music page 3.
@@ -129,7 +129,7 @@ K:C
 |: ccB | A2E | F2G | F2D | EFG | D2A | B2c |
 "^+"A2G | AAB | G2c | "^+"B2A | A3 | Bcd | G2c | "^+"d2c | c3 :|
 
-seemX:6
+X:6
 T:Des canames. [FJ6]
 % very pretty!
 S:Festin joyeux.  Music page 4.
@@ -146,7 +146,7 @@ K:Am
 "^+"F2E | B>AB | "^+"c>de | d/c/"^+"B>A | A3 :|
 
 
-seemX:7
+X:7
 T:D\`es le matin. [FJ7]
 S:Festin joyeux.  Music page 4.
 Z:transcribed by Eric Conrad, 2021.
@@ -161,7 +161,7 @@ K:Am
 |: EEE | A2F | G2A | B2B | c>de | Ad2 | "^+"B2A | A3 :|
 
 
-seemX:8
+X:8
 T:Ah! mon mal ne vient. [FJ8]
 S:Festin joyeux.  Music page 4,5.
 Z:transcribed by Eric Conrad, 2021.
@@ -177,7 +177,7 @@ BAB | c3 | BAG | ^F2G | ABA | d"^+"B2 | "^+"A3 :|
 |: g2d | _e2d | "^+"c>Bc | d3 | "^+"c>BA | "^+"d(c>B) | "^+"A3 | G3 :|
 
 
-seemX:9
+X:9
 T:Les dieux compte nos jours. [FJ9]
 S:Festin joyeux.  Music page 5.
 Z:transcribed by Eric Conrad, 2021.
@@ -194,7 +194,7 @@ K:Gdor % 1 flat ending on G
 BAG^F | G2z d/c/ | "^+"B3A/B/ |1 "^+""_NB1[--->"A3 :|2 "^+"A3- |: A-"_]" | Adcd |
 Bdcd | B3d | cBAG | ^F>G"^+"A>B | c>d"^+"B>A | (B2"^+"A2) |1 "_NB2[--->"G3 :|2 G4- | G2 z "_]"y |]
 
-seemX:10
+X:10
 T:Dans nos champs. [FJ10]
 S:Festin joyeux.  Music page 6.
 Z:transcribed by Eric Conrad, 2021.
@@ -211,7 +211,7 @@ fcde/f/ | c2f>e | "^+"dc _e/d/c/B/ | "^+"A2dc | "^+"BAcB |
 "^+"AGBA | "^+"GF A/G/B/A/ | "_NB1"F/G/A/B/ c2- | c2fc | AFfc | AF A/>B/ "^+"G | F2 :|
 
 
-seemX:11
+X:11
 T:J'ay fait souvent. [FJ11]
 S:Festin joyeux.  Music page 6.
 Z:transcribed by Eric Conrad, 2021.
@@ -226,7 +226,7 @@ K:Gdor % 1 flat ending on G
 "^+"B3c | dcBA | G3 :: G | c2B2 | A3B |
 AG^FG | A2AG | c2B2 | A3B | AGA^F | G3 :|
 
-seemX:12
+X:12
 T:Ce n'est point la mine [FJ12]
 S:Festin joyeux.  Music page 7.
 Z:transcribed by Eric Conrad, 2021.
@@ -242,7 +242,7 @@ z/G/ | G>G d>d e>g | ^f2 gz/e/ f>g | a>g f>g "^+"e2 |
 d3z/d/ d>e | f2 d2 c>d | B3B A>B | c>c c>d "^+"B2 | A3d d>e |
 f2 g2 ^f>g | d3B c>d | _e>d "^+"c>B "^+"A2 | G3 zz |]
 
-seemX:13
+X:13
 T:Mocquons nous. [FJ13]
 S:Festin joyeux.  Music page 7.
 Z:transcribed by Eric Conrad, 2021.
