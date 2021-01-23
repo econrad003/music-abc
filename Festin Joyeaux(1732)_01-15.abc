@@ -1,5 +1,14 @@
 %abc-2.2
 
+% Corrections and changes:
+%   22Jan2021 - EC - Corrected some transcriptions...
+%     Some tunes in the Festin Joyeux use the G clef to mark the first line of the staff
+%     as G.  I failed to notice this in my first pass.  For an explanation, see #6, #106
+%     and #206.  The affected tunes are:
+%       #6 Des canames.
+%       #7 D\`es le matin.
+%       #13 Mocquons nous.
+
 B:Festin joyeux ou la cuisine en musique, en vers libres.  Paris, 1738.
 % From the Gallica collection of the Biblioth\`eque Nationale de France
 %(BnF - the French National Library)...  A PDF copy (roughly 150 MB) of
@@ -131,34 +140,86 @@ K:C
 
 X:6
 T:Des canames. [FJ6]
-% very pretty!
 S:Festin joyeux.  Music page 4.
-Z:transcribed by Eric Conrad, 2021.
+Z:transcribed by Eric Conrad, 2021.  Corrected 22Jan2021.
 N:NB Three-quarter meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff, though iu isn't clear from the first line.
+N:NB -- This is the first of a number of tunes marked in this way.
 N:NB Repeat marks were added at beginning and end.
 N:NB The plus signs seem to indicate some kind of roll or trill.
 N:NB What do the plus signs mean?
 M:3/4
 L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:C % not A minor!
+|: c>de | "^+"e>dc | g>ag | "^+"f2e | g>de |
+"^+"e>fg | cde | "^+"d3 :: d>cd | e>fg | c>dB |
+"^+"A2G | d>cd | "^+"e>fg | f/e/"^+"d>c | c3 :|
+
+
+
+X:106
+T:Des canames, mistranscribed.
+W:This is my original transcription of the tune, where I failed to notice the placement of
+W:the G clef.  (On the first staff, it's ambiguous, but it's clear on the remaining two staves.
+W:Mea culpa!)  In #206, I show what it looks like using the modified G clef.  Despite the
+W:mistake on my part, this does sound very pretty, so I am including the mistake with an
+W:explanation.
+% very pretty!
+S:Festin joyeux.  Music page 4.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Three-quarter meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff, though it isn't clear from the first line.
+N:NB -- This is the first of a number of tunes marked in this way.
+N:NB -- This is what the tune looks like if, as I did, you fail to notice clef placement!
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB What do the plus signs mean?
+M:3/4
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
 K:Am
 |: A>Bc | "^+"c>BA | e>fe | "^+"d2c | e>Bc |
 "^+"c>de | ABc | "^+"B3 :: B>AB | c>de | A>BG |
 "^+"F2E | B>AB | "^+"c>de | d/c/"^+"B>A | A3 :|
 
-
-X:7
-T:D\`es le matin. [FJ7]
+X:206
+T:Des canames. [FJ6]
+T:with G clef on first line...
+T:so lines of staff going up are Good Boys Do Fine Always (GBdfa)
 S:Festin joyeux.  Music page 4.
-Z:transcribed by Eric Conrad, 2021.
+Z:transcribed by Eric Conrad, 2021.  Corrected transcription.
 N:NB Three-quarter meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff, though it isn't clear from the first line.
+N:NB -- This is the first of a number of tunes marked in this way.
 N:NB Repeat marks were added at beginning and end.
 N:NB The plus signs seem to indicate some kind of roll or trill.
 N:NB What do the plus signs mean?
 M:3/4
 L:1/4
-K:Am
-|: AcA | e2f | "^+"d2c | "^+"B2B | G>AB | EA2 | "^+"F2E | E3 :|
-|: EEE | A2F | G2A | B2B | c>de | Ad2 | "^+"B2A | A3 :|
+K:C clef=treble1 % MS has G on line 1
+% K:C % not A minor!
+|: c>de | "^+"e>dc | g>ag | "^+"f2e | g>de |
+"^+"e>fg | cde | "^+"d3 :: d>cd | e>fg | c>dB |
+"^+"A2G | d>cd | "^+"e>fg | f/e/"^+"d>c | c3 :|
+W:Warning: The bottom line is G, not E.  Look closely at the clef!
+
+
+X:7
+T:D\`es le matin. [FJ7]
+S:Festin joyeux.  Music page 4.
+Z:transcribed by Eric Conrad, 2021.  Corrected 22Jan2021.
+N:NB Three-quarter meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff, though iu isn't clear from the first line.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB What do the plus signs mean?
+M:3/4
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:C % no sharps or flats, ending on C (not on A)
+|: cec | g2a | "^+"f2e | "^+"d2d | B>cd | gc2 | "^+"A2G | G3 :|
+|: GGG | c2A | B2c | d2d | e>fg | cf2 | "^+"d2c | c3 :|
 
 
 X:8
@@ -245,9 +306,11 @@ f2 g2 ^f>g | d3B c>d | _e>d "^+"c>B "^+"A2 | G3 zz |]
 X:13
 T:Mocquons nous. [FJ13]
 S:Festin joyeux.  Music page 7.
-Z:transcribed by Eric Conrad, 2021.
+Z:transcribed by Eric Conrad, 2021.  Corrected 22Jan2021.
 N:NB First song in the collection with changes in meter.  The meters are cut time (2/2) marked as "2",
 N:NB -- 3/2 meter, and 3/4 time marked as "3".
+N:NB In the MS, the G clef is on line 1 so the staff there is GBdfA, not EGBdf!
+N:NB -- Here the G is on line 2.
 N:NB Repeat marks were added at beginning and end.
 N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
 N:NB The plus signs seem to indicate some kind of roll or trill.
@@ -256,10 +319,14 @@ N:NB2 1st and 2nd endings are not separate in MS.  The MS has |f6-::f4|
 N:NB3 5/4 is not marked in the MS.
 M:2/2
 L:1/8
-K:Ddor % no sharps or flats, ending in D
-|: ff | f2f>e "^+"e3d | [M:3/2] d4 z2e2 "_NB1"e3e | [M:2/2] e2c2 d3e | "_NB1"(e3f) "^+"f4 | e4 fff2 |
-f3ee3d | [M:3/2] d4 z2e2 e3e | [M:2/2] e2c2 d3e | (e3f) f4 |1 "_NB1"f6 :|2
-[M:5/4] "_NB3"f6- f4 |: [M:3/4] c3c d2 | e2 f4 | d2 ("^+"d3c) | e2 e2 f2 | "^+"c4 d2 | e2 "^+"e4 | d6 :|
+% Note on key: The actual scale is FGA-cdef so this is F major (1 flat, not in MS)
+% K:F % one flat, but B flat is not used.
+K:Flyd % As in MS with no sharps or flats, ending in F
+%%text hexatonic (Lydian/Ionian)
+|: aa | a2a>g "^+"g3f | [M:3/2] f4 z2g2 "_NB1"g3g | [M:2/2] g2c2 d3g | "_NB1"(g3a) "^+"a4 | g4 aaa2 |
+a3gg3f | [M:3/2] f4 z2g2 g3g | [M:2/2] g2e2 f3g | (g3f) a4 |1 "_NB1"a6 :|2
+[M:5/4] "_NB3"a6- a4 |: [M:3/4] e3e f2 | g2 a4 | f2 ("^+"f3e) | g2 g2 a2 | "^+"e4 f2 | g2 "^+"g4 | f6 :|
+
 
 X:14
 T:Vous brillez seule. [FJ14]
