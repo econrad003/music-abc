@@ -34,5 +34,7 @@ ABC 2.1 standard: http://abcnotation.com/wiki/abc:standard:v2.1
 
 Updates:
 * 8 Apr 2020 - added transcriptions from the Malchair musical manuscript.  (Music representing about 30-4 pages of the 134-page MS, plus notes are contained in the transcriptions.)  A complete set of transcriptions (also both more official and more literal) may be found at https://github.com/Gubbledenut/ABC_TuneBooks in the file there named "Malchair.abc".
-* 21 Jan 2021 - transcriptions of the first 15 tunes in Festin Joyeaux (1732).  See comments in the ABC file for more information.  The entire book (PDF, 150 MB) is available online from the French National Library's Gallica (Bibliothèque Nationale - Gallica) collection, free and without registration.
-* 24 Jan 2021 - tunes 16-30 in Festin Joyeaux (1732).  (There are 49 tunes in the collection.)
+* 21 Jan 2021 - transcriptions of the first 15 tunes in Festin Joyeux (1732).  See comments in the ABC file for more information.  The entire book (PDF, 150 MB) is available online from the French National Library's Gallica (Bibliothèque Nationale - Gallica) collection, free and without registration.
+* 24 Jan 2021 - tunes 16-30 in Festin Joyeux (1732).  (There are 49 tunes in the collection.)
+* 26 Jan 2021 - tunes 31-49 in Festin Joyeux (1732).  (There are 49 tunes in the collection.)
+
