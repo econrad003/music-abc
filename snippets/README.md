@@ -8,4 +8,8 @@ Loaded so far:
   
   - Either I'm doing something wrong or the 15va (double ottava) clefs don't work in abcm2ps.  (I assume the former.)  If I get them working, I'll incorporate them into the examples.  The 8va (ottava) clefs are demonstrated in the examples entitled *Some G clefs*, *Some F clefs*, and *Some C clefs*.
 
+* snippets.abc - Just a few miscellaneous examples. I'll eventually add more.
+
+  - Current examples: text and annotations, midi channels (instrumentation for melody and chords, varying the chord pattern)
+
 Enjoy!
