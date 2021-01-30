@@ -1,0 +1,136 @@
+%abc-2.1
+
+X:0
+T:background information
+C:Eric Conrad
+F:http://individual.utoronto.ca/seadogdriftwood/Hurrian/
+K:
+W:This is the earliest known piece of essentially complete written music, about 3200 years old, a hymn found
+W:among the ruins of Ugarit, near Ras Shamra in Syria.  It is known today as Hurrian Hymn #6.  It is a
+W:cuneiform tablet, somewhat damaged.  It was written in Hurrian, a language spoken in the Kingdom of the
+W:Mitanni and in the Hittite empire.  Hurrian is related to Urartian (another ancient language).  Whether
+W:these two languages are related to any modern language is a matter of dispute.
+W:
+W:Cuneiform is a kind of writing that was used in much of the Middle East up through the Persian period.  It
+W:consists of symbols constructed from wedge-shaped marks, usually made by a reed stylus on a soft clay surface.
+W:When the clay is baked or left out in the the hot sun, it hardens.  Cuneiform writing derives from early
+W:Sumerian hieroglyphic writing, and was used by scribes to record documents in a number of ancient languages,
+W:including Sumerian, Elamite, Akkadian, Assyrian, Ugarit, Hittite, and (Old) Persian.  (Akkadian, Assyrian
+W:and Ugarit are Semitic languages, related to languages like Arabic, Hebrew and Aramaic.  Hittite and Persian
+W:are Indo-European languages, related to a number of languages including Latin, Greek and Sanscrit, and modern
+W:languages like (Modern) Greek, English, German, French, Bengali and Russian.  Sumerian is a language
+W:isolate, not known to be related to any other languages, either ancient or modern.  Elamite is likewise an
+W:isolate.
+W:
+W:Both words and music were written down.  Damage to the tablet and uncertainties in the text.  In the
+W:case of the music, there are additional difficulties.  The music is a sort of tablature notation for
+W:a stringed instrument.  One difficulty is that we don't know how the instrument was tuned.  Another is
+W:that each note was assigned an "embube" (interval) followed by a number of uncertain meaning.
+W:
+W:Reconstructions of the music vary based on differing assumptions.  I've attempted here to take
+W:several of these reconstructions and transcribe them into ABC. These reconstructions obviously differ
+W:in approach, in purpose, and in results.
+
+X:1
+T:Hurrian Hymn 6 [Dumbrill, 1998]
+O:Urgarit, c 1200 BCE
+F:http://individual.utoronto.ca/seadogdriftwood/Hurrian/
+Z:transcribed by Eric Conrad, 2019
+M:none
+L:1/8
+Q:1/2=90
+K:C
+% %MIDI temperamentlinear 1200.0 701.955001    % Pythagorean
+%%MIDI temperamentlinear 1200.0 696.57843     % 1/4-comma meantone
+%%MIDI program 107 % koto
+AGFE D6 DEF2 AGFE D6 FGA2 AB !fermata!c4 dcBA GFED z |
+ABc4 GAB2 FGA4 EFG4 DEF6 EFG4 cBAG F2 EFG2 
+DEF6 BAGF E2 Bcd2 ABc8 GAB2 FGA4 EFG8 DEF2 BAGF E2
+FGA4 EFG4 FGA2 EFG4 FGA2 EFG4 DEF8 |
+GFED C4 AGFE D6 GFED C2 AGFE D8 GFED C4 |]
+
+X:2
+T:Hurrian Hymn 6 [Duchesne-Gilleman 1977]
+O:Urgarit, c 1200 BCE
+F:http://individual.utoronto.ca/seadogdriftwood/Hurrian/
+Z:transcribed by Eric Conrad, 2019
+M:5/4
+L:1/4
+K:C
+% %MIDI temperamentlinear 1200.0 701.955001    % Pythagorean
+%%MIDI temperamentlinear 1200.0 696.57843     % 1/4-comma meantone
+% %MIDI program 73 % flute
+%%MIDI program 107 % koto
+GFED(E/2D/2) | E(D/2E/2) (F/2G/2) AB | A (G/2F/2) (E/2D/2) E>D | CDEEF |
+w:?-?-?-ha-nu--ta ni--ya--\vsa zi-we \vsi--nu--te zu-tu-ri-ya u-bu-
+((5G/2F/2G/2F/2G/2 (5F/2G/2F/2G/2F/2) G D2 | D2 D2 z |]
+w:ga----------ra hu-bur-ni
+
+X:3
+T:Hurrian Hymn 6 [Wulstan 1971]
+O:Urgarit, c 1200 BCE
+F:http://individual.utoronto.ca/seadogdriftwood/Hurrian/
+Z:transcribed by Eric Conrad, 2021
+M:none
+L:1/8
+W:[1] Rests are placed where a segment was not translated into music.
+W:[2] The annotations alternating above and below the staff are examples of the tablature notation.
+W:[3] Square brackets are customarily used by translators to indicate gaps in the text.
+K:C
+% %MIDI temperamentlinear 1200.0 701.955001    % Pythagorean
+%%MIDI temperamentlinear 1200.0 696.57843     % 1/4-comma meantone
+%%MIDI program 107 % koto
+"^kablite3"GAB "_irbute"d "^kablite2"GA "_titime\vsharte10"GFE "^u\vstamari?"z4  \
+"_titimi\vsarte2"GF "^zirte1"A "_\vsahri2"BA "^[\vsa\vs\vsate]2"cB "_irbute2"dc 
+"^tuppunu1"GF "_\vsa\vs\vsate2"dc "^irbute[?]"dc "_\vsa\vs\vsate[?]"cB "^titar kabli1"F "_\vsahri[1]"B  \
+"^zirte1"A "_\vsahri2"BA "^\vsa\vs\vsate4"cBAG "_irbute1"d "^nat kabli1"F "_\vsahri[1]"B
+"^\vsa\vs\vsate4"cBAG "_\vsahri2"BA "^\vsa\vs\vsate2"cB "_sahri1"B "^\vsa\vs\vsate2"cB "_irbute2"dc
+"^kitme2"AB "_kablite3"GAB "^kitme1"A "_kablite4"GABc "^kitme1"A "_kablite5?"GABcd
+
+X:4
+T:Hurrian Hymn 6 [West 1993]
+O:Urgarit, c 1200 BCE
+F:http://individual.utoronto.ca/seadogdriftwood/Hurrian/
+Z:transcribed by Eric Conrad, 2021
+M:none
+L:1/8
+K:C
+% %MIDI temperamentlinear 1200.0 701.955001    % Pythagorean
+%%MIDI temperamentlinear 1200.0 696.57843     % 1/4-comma meantone
+%%MIDI program 107 % koto
+[Dd][Dd][Dd] F [Dd][Dd][Dd] A GGGGG GGGGG | AAGAA GGFF |
+FGGF "_?"z4 [Ee] BAAAA | GAAGG GGGF [Ee] A |
+GGGGA GGAGG FF | [Cc][Cc][Dd][Dd][Dd] [Cc][Dd][Dd][Dd][Dd] [Cc][Dd][Dd] |]
+
+X:5
+T:Hurrian Hymn 6 [Krispijn 2000]
+O:Urgarit, c 1200 BCE
+F:http://individual.utoronto.ca/seadogdriftwood/Hurrian/
+Z:transcribed by Eric Conrad, 2021
+M:4/4
+L:1/4
+K:G
+%%MIDI temperamentlinear 1200.0 701.955001    % Pythagorean
+% %%MIDI temperamentlinear 1200.0 696.57843     % 1/4-comma meantone
+%%MIDI program 107 % koto
+[DA][DA][DA][CA] | [DA][DA][DA][CE] | \
+w:[?]-[?]-a\vs-ha\vs-ta-ni-ya-\vsa
+   [DA][DA][DA][DA] | [DA][DA][DA][DA] | [DA][DA]z2 |
+w:~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+|: [EG][EG][DF][CE] | [CE]z[DB][DB] | [CA][CA][CG][DB] | [DB][CA]z2 | \
+w:zi-ve \vsi-nu-te zu-tu-ri-ya u-pu-ga-rat ~ ~
+w:[?]-[?] hu-wur-ni ta-\vsal kel-la mu-li siv-ri ~ ~
+   [FB][FA]z2 :|
+w:~ ~
+[EG][EG][EG][EG] | [DF][CE][CE]z | [DB][DB][DB][DB] | [CA][FB][CE]z |
+w:1.~(hu-ma-ru-hat u-wa-ri) hu-ma-ru-hat u-wa-ri
+w:2.~(we-\vsal ta-tiv ti-\vsi-ya) we-\vsal ta-tiv ti-\vsi-ya
+w:3.~(ka-li-ta-nil ni-ka-la) ka-li-ta-nil ni-ka-la
+[DB][DB][DB][DB] | [CE]z[DB][DB] | [CE]z[DB][DB] | [CA][CA][DG][DG] |
+w:wa-da-ni-ta k(u)ri kur-kur-ta i-\vsal-la u-la-li
+w:\'u-nul kab-\vsi-li u-nult (a)kle \vsam-\vsam-me-ni ta-lil
+w:nih(u)-ra-\vsal ha-na ha-nu-te-ti a-ta-a-ya\vs-tal
+z[EA][EA][EA] | [DG][EA][EA][EA] | [DA][DG][EA][EA] |]
+w:kav-gi u-liv-gi \vsir(i)t u-ni-\vsu ~ ~
+w:uk-lal tu-nu-ni-ta [?]-[?]-ka ~ ~
+w:a-tar-ri hu-e-ti ha-nu-ka ~ ~
