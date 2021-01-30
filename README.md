@@ -37,4 +37,5 @@ Updates:
 * 21 Jan 2021 - transcriptions of the first 15 tunes in Festin Joyeux (1732).  See comments in the ABC file for more information.  The entire book (PDF, 150 MB) is available online from the French National Library's Gallica (Bibliothèque Nationale - Gallica) collection, free and without registration.
 * 24 Jan 2021 - tunes 16-30 in Festin Joyeux (1732).  (There are 49 tunes in the collection.)
 * 26 Jan 2021 - tunes 31-49 in Festin Joyeux (1732).  (There are 49 tunes in the collection.)
+* 30 Jan 2021 - Hurrian Hymn 6 (c 1200 BCE) from Ugarit, an ancient city near modern Ras Shamra in Syria. I've transcribed five reconstructions of this song, the earliest nearly complete example of a song for which we have a transcription of the music.  Unfortunately, we don't know how to interpret Hurrian musical notation.  These reconstructions represent a few of the attempts to do so.
 
