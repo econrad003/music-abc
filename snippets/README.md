@@ -12,4 +12,6 @@ Loaded so far:
 
   - Current examples: text and annotations, midi channels (instrumentation for melody and chords, varying the chord pattern)
 
+* rhythm.abc - playing around with 11/8 time in abc2midi - if you have a tune where guitar chords don't play it's probably not in a meter that abc2midi supports.  If the guitar chords drop out and come back in, either you have barring problems or the meter changes briefly to an unsupported meter.  The four examples here may give give a few hints...
+
 Enjoy!
