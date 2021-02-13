@@ -35,23 +35,7 @@ W:tempos are simply suggestions.
 % Modifications
 %   3Feb2021 - (1) Added suggested tempos to several transcriptions.
 %       (2) Add Raoul Gregory Vitale's interpretation.
-X:1
-T:Hurrian Hymn 6 [Dumbrill, 1998]
-O:Urgarit, c 1200 BCE
-F:http://individual.utoronto.ca/seadogdriftwood/Hurrian/
-Z:transcribed by Eric Conrad, 2019
-M:none
-L:1/8
-Q:1/2=90
-K:C
-% %MIDI temperamentlinear 1200.0 701.955001    % Pythagorean
-%%MIDI temperamentlinear 1200.0 696.57843     % 1/4-comma meantone
-%%MIDI program 107 % koto
-AGFE D6 DEF2 AGFE D6 FGA2 AB !fermata!c4 dcBA GFED z |
-ABc4 GAB2 FGA4 EFG4 DEF6 EFG4 cBAG F2 EFG2 
-DEF6 BAGF E2 Bcd2 ABc8 GAB2 FGA4 EFG8 DEF2 BAGF E2
-FGA4 EFG4 FGA2 EFG4 FGA2 EFG4 DEF8 |
-GFED C4 AGFE D6 GFED C2 AGFE D8 GFED C4 |]
+%   12Feb2021 - Removed my transcription of Dumbrill's version as it appears to be under a copyright.
 
 X:2
 T:Hurrian Hymn 6 [Duchesne-Gilleman 1977]
